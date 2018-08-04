@@ -119,6 +119,11 @@ main {
       @include easeOut;
     }
   }
+  p {
+    padding: 5px;
+    border: 3px solid $secondary-color;
+    border-radius: 5px;
+  }
 }
 
 //Contact Page
